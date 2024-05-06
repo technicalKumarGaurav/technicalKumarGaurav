@@ -13,3 +13,5 @@
 🔗 GitHub: technicalKumarGaurav/kumar730930.github.io.github.io
 
 Happy coding! 🚀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalKumarGaurav)](https://github.com/technicalKumarGaurav/github-readme-stats)
