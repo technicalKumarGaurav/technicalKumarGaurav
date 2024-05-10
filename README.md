@@ -14,5 +14,6 @@
 
 Happy coding! 🚀
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalKumarGaurav)](https://github.com/technicalKumarGaurav/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalKumarGaurav&hide_progress=true)
